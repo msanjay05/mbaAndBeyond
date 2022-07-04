@@ -3,8 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
 ## Development server
+install all the dependencies via `  npm i`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for frontend. Navigate to `http://localhost:4200/`
+Run `npm run server` for backend
+
 
 ## Code scaffolding
 
